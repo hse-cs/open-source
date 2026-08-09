@@ -1,0 +1,20 @@
+site_name: HSE CS Open Source
+site_url: https://hse-cs.github.io/open-source
+repo_url: https://github.com/hse-cs/open-source
+edit_uri: tree/main/docs
+repo_name: GitHub
+docs_dir: docs
+site_dir: site
+theme:
+  name: mkdocs
+  user_color_mode_toggle: True
+markdown_extensions:
+  - markdown_include.include
+  # - extra
+  # - tables
+plugins:
+  - search
+  # - mknotebooks
+  # - mkdocs-jupyter
+nav:
+    - Home: 'index.md'
