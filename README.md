@@ -18,6 +18,13 @@ Projects are organized by the year they were released or published.
 - [ML2B: Multi-Lingual ML Benchmark For AutoML](https://github.com/enaix/ml2b) - **ML2B**, [paper](https://arxiv.org/abs/2509.22768) (2026)
 - [Multimodal graph, surface, and language-based model for protein protein interaction prediction](https://github.com/ChervovNikita/gsmformer-ppi) - **gsmformer-ppi**, [paper](https://www.nature.com/articles/s41598-025-34758-x) (2026)
 - [(Re)defining the human chromatome: an integrated meta-analysis of localization, function, abundance, physical properties, and domain composition of chromatin proteins](https://github.com/intbio/SimChrom) - **SimChrom**, [paper](https://doi.org/10.1093/nar/gkaf1489) (2026)
+- [GeomMotif: A Benchmark for Arbitrary Geometric Preservation in Protein Generation](https://github.com/GeomMotif/GeomMotif) - **GeomMotif**, [paper](https://openreview.net/forum?id=b4C3zAzRgH) (2026)
+- [Modeling Pruning as a Phase Transition: A Thermodynamic Analysis of Neural Activations](https://github.com/hse-scila/Activation_Pruning) - **Activation_Pruning**, [paper](https://www.techscience.com/cmc/v86n3/65482) (2026)
+- [DPN Verifier: A Toolkit for Faster Soundness Verification and Repair of Process Models with Data](https://github.com/ConferenceParticipant/DPNVerifier) - **DPNVerifier**, [paper](https://www.ispras.ru/proceedings/isp_38_2026_3-2/isp_38_2026_3-2_49/) (2026)
+- [RTCMS4J: Easily control your Spring applications in real-time!](https://github.com/hse-rtcms4j) - **hse-rtcms4j** (2026)
+- [HoTPP benchmark: Are we good at the long horizon events forecasting?](https://github.com/ivan-chai/hotpp-benchmark) - **hotpp-benchmark**, [paper](https://www.sciencedirect.com/science/article/pii/S0925231226001682) (2026)
+- [CasTex: Cascaded Text-to-Texture Synthesis via Explicit Texture Maps and Physically-Based Shading](https://github.com/thecrazymage/CasTex) - **CasTex**, [paper](https://arxiv.org/abs/2504.06856) (2026)
+- [Online Neural Networks for Change-Point Detection](https://github.com/HSE-LAMBDA/roerich) - **Roerich**, [paper](https://arxiv.org/abs/2010.01388) (2026)
 
 ### 2025
 
@@ -33,6 +40,21 @@ Projects are organized by the year they were released or published.
 - [Tight Bounds for Schrödinger Potential Estimation in Unpaired Image-to-Image Translation Problems](https://github.com/denvar15/Tight-Bounds-for-Schrodinger-Potential-Estimation-in-Unpaired-Data-Translation) - **Tight Bounds for Schrödinger Potential Estimation**, [paper](https://arxiv.org/pdf/2508.07392) (2025)
 - [gfnx: Fast and Scalable Library for Generative Flow Networks in JAX](https://github.com/d-tiapkin/gfnx) - **gfnx**, [paper](https://arxiv.org/abs/2511.16592) (2025)
 - [Deep-learning-based Identification of Solar Magnetic Tornadoes and Their Spatial Properties during Solar Minimum and Maximum](https://github.com/markblumenau/solar-magnetic-tornado) - **solar-magnetic-tornado**, [paper](https://iopscience.iop.org/article/10.3847/1538-4357/ae3f97) (2025)
+- [Performance Modeling of Data Storage Systems Using Generative Models](https://github.com/HSE-LAMBDA/digital-twin) - **digital-twin**, [paper](https://ieeexplore.ieee.org/document/10930879) (2025)
+- [Knowledge Graph Completion with Mixed Geometry Tensor Factorization](https://github.com/hse-cs/MIGTF) - **MIGTF**, [paper](https://arxiv.org/pdf/2504.02589) (2025)
+- [Beyond Fine-Tuning: A Systematic Study of Sampling Techniques in Personalized Image Generation](https://github.com/ControlGenAI/PersonGenSampler) - **PersonGenSampler**, [paper](https://arxiv.org/pdf/2502.05895) (2025)
+- [Enhancing FEVER-Style Claim Fact-Checking Against Wikipedia: A Diagnostic Taxonomy and a Generative Framework](https://github.com/aschern/FEVERDiagnostics) - **FEVERDiagnostics**, [paper](https://link.springer.com/chapter/10.1007/978-3-031-88708-6_20) (2025)
+- [Matrix-Free Two-to-Infinity and One-to-Two Norms Estimation](https://github.com/fallnlove/TwoToInfinity) - **TwoToInfinity**, [paper](https://arxiv.org/pdf/2508.04444v1) (2025)
+- [CLEAR: Character Unlearning in Textual and Visual Modalities](https://github.com/somvy/multimodal_unlearning) - **multimodal_unlearning**, [paper](https://arxiv.org/abs/2410.18057) (2025)
+- [Revisiting Non-Acyclic GFlowNets in Discrete Environments](https://github.com/GreatDrake/non-acyclic-gfn) - **non-acyclic-gfn**, [paper](https://openreview.net/pdf?id=czqxB524oo) (2025)
+- [PaGLGENN: A Novel Parameter-Light Equivariant Neural Networks Architecture Based on Clifford Geometric Algebrasper](https://github.com/katyafilimoshina/glgenn) - **PaGLGENN**, [paper](https://openreview.net/pdf?id=H0ySAzwu8k) (2025)
+- [AutoJudge: Judge Decoding Without Manual Annotation](https://github.com/garipovroma/autojudge) - **AutoJudge**, [paper](https://openreview.net/pdf?id=ktNJgpmjjP) (2025)
+- [Optimizing Backward Policies in GFlowNets via Trajectory Likelihood Maximization](https://github.com/tgritsaev/gflownet-tlm) - **gflownet-tlm**, [paper](https://openreview.net/forum?id=Xj66fkrlTk) (2025)
+- [Prediction of protein-protein interactions using point transformer and spherical Convex Hull graphs](https://github.com/bdabykov/PT_PPI) - **PT-PPI**, [paper](https://www.sciencedirect.com/science/article/pii/S2001037025005446) (2025)
+- [Cache Me If You Must: Adaptive Key-Value Quantization for Large Language Models](https://github.com/goodevening13/aquakv) - **aquakv**, [paper](https://openreview.net/forum?id=COowwJOAZi) (2025)
+- [Efficient incorporation of new interactions in graph recommenders via folding-in](https://github.com/YusupovV-Lab/Folding-In-MRGSRec) - **Folding-In-MRGSRec**, [paper](https://link.springer.com/article/10.1007/s11257-025-09440-6) (2025)
+- [LoRA meets Riemannion: Muon Optimizer for Parametrization-independent Low-Rank Adapters](https://github.com/Bogachevv/RiemanianFinetune) - **RiemanianFinetune**, [paper](https://arxiv.org/abs/2507.12142) (2025)
+- [Robotics manipulator that will be able to play table tennis](https://github.com/robotics-laboratory/handy) - **Mr.Handy** (2025)
 
 ### 2024
 
@@ -57,6 +79,13 @@ Projects are organized by the year they were released or published.
 - [Invertible Consistency Distillation for Text-Guided Image Editing in Around 7 Steps](https://github.com/yandex-research/invertible-cd) - **invertible-cd**, [paper](https://arxiv.org/pdf/2406.14539) (2024)
 - [Challenges of Generating Structurally Diverse Graphs](https://github.com/Abusagit/Challenges-on-generating-structurally-diverse-graphs) - **Challenges-on-generating-structurally-diverse-graphs**, [paper](https://openreview.net/pdf?id=bbGPoL1NLo) (2024)
 - [Understanding admixture fractions: theory and estimation of gene-flow](https://github.com/Genomics-HSE/QuAP) - **QuAP**, [paper](https://link.springer.com/article/10.1007/s00285-024-02146-0) (2024)
+- [Approach to creating the service for code generation ofmobile applicationsusing the large language models](https://github.com/LucyRez/CodeBuddy) - **CodeBuddy**, [paper](https://publications.hse.ru/pubs/share/direct/1001817469.pdf) (2024)
+- [GraphLand: Evaluating Graph Machine Learning Models on Diverse Industrial Data](https://github.com/yandex-research/graphland) - **GraphLand**, [paper](https://arxiv.org/abs/2409.14500) (2024)
+- [Verification of data-aware process models: Checking soundness of data Petri nets](https://github.com/SuvorovNM/DPN-Soundness-Verification) - **DPN-Soundness-Verification**, [paper](https://linkinghub.elsevier.com/retrieve/pii/S2352220824000117) (2024)
+- [An Analysis of Sequential Patterns in Datasets for Evaluation of Sequential Recommendations](https://github.com/Antondfger/Does-It-Look-Sequential) - **Does-It-Look-Sequential**, [paper](https://doi.org/10.1145/3787969) (2024)
+- [MELINDA is a python library for creating tabular synthetic data.](https://github.com/hse-cs/LINDA) - **Linda** (2024)
+- [Truck is an open source project dedicated to the construction and development of the 2.5D indoor autonomous vehicle based on the ackermann steering model](https://github.com/robotics-laboratory/truck) - **Truck** (2024)
+- [Probaforms is a python library of conditional generative models for tabular data.](https://github.com/hse-cs/probaforms) - **Probaforms** (2024)
 
 ### 2023
 
@@ -71,6 +100,8 @@ Projects are organized by the year they were released or published.
 - [Evaluating Robustness and Uncertainty of Graph Models Under Structural Distributional Shifts](https://github.com/yandex-research/structural-graph-shifts) - **structural-graph-shifts**, [paper](https://arxiv.org/pdf/2302.13875) (2023)
 - [Generic flexibility of affine cones over del Pezzo surfaces in Sagemath](https://github.com/hse-cs/delPezzo) - **delPezzo**, [paper](https://arxiv.org/pdf/2305.06462) (2023)
 - [A critical look at the evaluation of GNNs under heterophily: Are we really making progress?](https://github.com/yandex-research/heterophilous-graphs) - **heterophilous-graphs**, [paper](https://arxiv.org/pdf/2302.11640) (2023)
+- [Sparse representation for machine learning the properties of defects in 2D materials](https://github.com/HSE-LAMBDA/ai4material_design) - **ai4material_design**, [paper](https://www.nature.com/articles/s41524-023-01062-z) (2023)
+- [Is This Loss Informative? Faster Text-to-Image Customization by Tracking Objective Dynamics](https://github.com/yandex-research/DVAR) - **DVAR**, [paper](https://arxiv.org/pdf/2302.04841) (2023)
 
 ### 2022
 
@@ -78,16 +109,22 @@ Projects are organized by the year they were released or published.
 - [On Embeddings for Numerical Features in Tabular Deep Learning](https://github.com/yandex-research/rtdl-num-embeddings) - **rtdl-num-embeddings**, [paper](https://arxiv.org/pdf/2203.05556) (2022)
 - [HyperDomainNet: Universal Domain Adaptation for Generative Adversarial Networks](https://github.com/MACderRu/HyperDomainNet) - **HyperDomainNet**, [paper](https://arxiv.org/pdf/2210.08884) (2022)
 - [Self-supervised recurrent depth estimation with attention mechanisms](https://github.com/MariBax/self-supervised-depth-estimation) - **self-supervised-depth-estimation**, [paper](https://peerj.com/articles/cs-865/) (2022)
+- [Community Detection in Feature-Rich Networks Using Data Recovery Approach](https://github.com/Sorooshi/SEFNAC_Alg) - **SEFNAC_Alg**, [paper](https://link.springer.com/article/10.1007/s00357-022-09416-w) (2022)
+- [Variance reduction for additive functionals of Markov chains via martingale representations](https://github.com/svsamsonov/MAD-CV) - **MAD-CV**, [paper](https://link.springer.com/article/10.1007/s11222-021-10073-z) (2022)
+- [CartPole control experiments](https://github.com/robotics-laboratory/cart-pole) - **CartPole** (2022)
 
 ### 2021
 
 - [Cherry-Picking Gradients: Learning Low-Rank Embeddings of Visual Data via Differentiable Cross-Approximation (ICCV2021)](https://github.com/prs-eth/c-pic) — **C-PIC**, [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Usvyatsov_Cherry-Picking_Gradients_Learning_Low-Rank_Embeddings_of_Visual_Data_via_Differentiable_ICCV_2021_paper.html) (2021)
 - [VGsim: scalable viral genealogy simulator for global pandemic](https://github.com/Genomics-HSE/VGsim) - **VGsim**, [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8095227/) (2021)
+- [Secure Distributed Training at Scale](https://github.com/yandex-research/btard) - **btard**, [paper](https://arxiv.org/pdf/2106.11257) (2021)
+- [Landmarks Augmentation with Manifold-Barycentric Oversampling](https://github.com/cviaai/LAMBO) - **LAMBO**, [paper](https://arxiv.org/abs/2104.00925) (2021)
 
 ### 2020
 
 - [Change Point Detection in Time Series Data using Autoencoders with a Time-Invariant Representation](https://github.com/hse-cs/TIRE_pytorch) - **TIRE**, [paper](https://arxiv.org/pdf/2008.09524) (2020)
 - [GP-VAE: Deep Probabilistic Time Series Imputation](https://github.com/ratschlab/GP-VAE) - **GP-VAE**, [paper](https://proceedings.mlr.press/v108/fortuin20a/fortuin20a.pdf) (2020)
+- [Adaptive divergence for rapid adversarial optimization](https://github.com/HSE-LAMBDA/rapid-ao) - **rapid-ao**, [paper](https://peerj.com/articles/cs-274/) (2020)
 
 ### 2009
 
