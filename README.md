@@ -134,4 +134,6 @@ Projects are organized by the year they were released or published.
 
 Have an open-source project or resource created at HSE CS?
 
-Feel free to open a pull request and add it to the appropriate section.
+Simply [open an issue](https://github.com/hse-cs/open-source/issues/new) with a link to the project and, optionally, its associated paper. A paper is not required — we will add the project to the collection ourselves.
+
+You can also submit a pull request to add or update an entry. See the [contribution guidelines](https://github.com/hse-cs/open-source/blob/main/CONTRIBUTING.md) for the entry format and review checklist.
