@@ -18,3 +18,4 @@ plugins:
   # - mkdocs-jupyter
 nav:
     - Home: 'index.md'
+    - Open Code Contest: 'contest.md'
