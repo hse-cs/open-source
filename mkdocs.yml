@@ -19,3 +19,4 @@ plugins:
 nav:
     - Home: 'index.md'
     - Open Code Contest: 'contest.md'
+    - Contributing: 'contributing.md'
