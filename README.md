@@ -4,6 +4,10 @@ A collection of open-source projects and resources created by HSE CS staff and s
 
 ⭐ **If you find a project useful, please consider starring this repository and the projects listed below.** It helps make these resources more visible and supports the people who created them.
 
+## Topics
+
+- [Open Code Contest](https://github.com/hse-cs/open-source/blob/main/docs/contest.md)
+
 ## Projects by Year
 
 Projects are organized by the year they were released or published.
